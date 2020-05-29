@@ -30,4 +30,6 @@ Support Vector Machines
 
 Naive Bayes
 
+Google Colab (or you can use Jupyter Notebook
+
 Hope you will enjoy this project for your in depth knowledge of Deep learning and Computer vision for further learning.
