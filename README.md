@@ -4,9 +4,9 @@ The automotive industry is experiencing a paradigm shift from conventional, huma
 
 As the world advances towards a driverless future, the need for experienced engineers and researchers in this emerging new field has never been more crucial.
 
-The purpose of this course is to provide students with knowledge of key aspects of design and development of self-driving vehicles. The course provides students with practical experience in various self-driving vehicles concepts such as machine learning and computer vision. Concepts such as lane detection, traffic sign classification, vehicle/object detection, artificial intelligence, and deep learning will be presented. The course is targeted towards students wanting to gain a fundamental understanding of self-driving vehicles control. Basic knowledge of programming is recommended. However, these topics will be extensively covered during early course lectures; therefore, the course has no prerequisites, and is open to any student with basic programming knowledge. Students who enroll in this self-driving car course will master driverless car technologies that are going to reshape the future of transportation.
+The purpose of this project is to provide learners with knowledge of key aspects of design and development of self-driving vehicles. The project provides learners with practical experience in various self-driving vehicles concepts such as machine learning and computer vision. Concepts such as lane detection, traffic sign classification, vehicle/object detection, artificial intelligence, and deep learning will be presented. The project is targeted towards any learners wanting to gain a fundamental understanding of self-driving vehicles control. Basic knowledge of python programming is recommended. However, I have eager to descrive any request by email for learners any details of project understanding.
 
-Tools and algorithms we'll cover include:
+Tools and algorithms are covered in this project:
 
 OpenCV
 
@@ -29,3 +29,5 @@ Decision Trees
 Support Vector Machines
 
 Naive Bayes
+
+Hope you will enjoy this project for your in depth knowledge of Deep learning and Computer vision for further learning.
